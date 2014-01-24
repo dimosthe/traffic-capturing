@@ -13,3 +13,5 @@ A python tool for capturing incoming and outgoing traffic from a network device 
 sudo python tcapture.py <network device name> <time in seconds> [-v],
 insert -v in order to get the src and dest of each packet
 
+eg sudo python tcapture.py eth1 10
+
